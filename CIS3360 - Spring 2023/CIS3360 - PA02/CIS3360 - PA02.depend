@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681872192 source:c:\users\fletcher\documents\fletcher's_docs\code\c\cis3360 - spring 2023\cis3360 - pa02\main.c
+	<assert.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+
