@@ -1,1 +1,1 @@
-# CIS3360-Spring-2023
+# CIS3360 Security in Computing
